@@ -80,11 +80,7 @@ print "<a href = '" . $flickr_url . "'><img title='".$title."' src='".$photo_url
         <a class="navbar-brand" href="index.php">Main Page</a>
         </div>
         
-<<<<<<< HEAD
         <!--<div id="navbar" class="collapse navbar-collapse">
-=======
-        <div id="navbar" class="collapse navbar-collapse">
->>>>>>> FETCH_HEAD
         	<ul class="nav navbar-nav">
         		<li><a href="introduction">Intro to APIs</a></li>
             	<li class="active"><a href="getstarted">Get Started</a></li>
@@ -93,11 +89,7 @@ print "<a href = '" . $flickr_url . "'><img title='".$title."' src='".$photo_url
               	<li><a href="apidata">Data part I</a></li>
                	<li><a href="apidata2">Data part II</a></li>
                 <li><a href="finalproduct">Final Product</a></li>
-<<<<<<< HEAD
                 <li><a href="demo.php">Demo</a></li>-->
-=======
-                <li><a href="demo.php">Demo</a></li>
->>>>>>> FETCH_HEAD
           	</ul>
         </div><!--/.nav-collapse -->
       </div><!-- / .container -->
